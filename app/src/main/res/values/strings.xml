@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ExpenseControl</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="list_language">
+        <item >English</item>
+        <item >Polish</item>
+    </string-array>
+    <string-array name="list_language_values">
+        <item >EN</item>
+        <item >PL</item>
+    </string-array>
+</resources>
