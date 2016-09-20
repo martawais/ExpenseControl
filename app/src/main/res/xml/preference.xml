@@ -18,7 +18,7 @@
         android:dialogTitle="Language"
         android:entries="@array/list_language"
         android:entryValues="@array/list_language_values"
-        android:summary="Return choosen language"
+        android:summary="Return choosen recognition language"
         android:key="language_list"
         android:title="Language" />
 

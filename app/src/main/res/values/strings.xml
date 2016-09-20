@@ -6,7 +6,7 @@
         <item >Polish</item>
     </string-array>
     <string-array name="list_language_values">
-        <item >EN</item>
-        <item >PL</item>
+        <item >eng</item>
+        <item >pol</item>
     </string-array>
 </resources>
